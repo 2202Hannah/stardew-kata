@@ -1,0 +1,15 @@
+{
+  "name": "stardew-kata",
+  "version": "1.0.0",
+  "description": "This kata is inspired by the hugely popular game _Stardew Valley_, but does not require any knowledge of the game to complete. 💫",
+  "main": "farm.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.2"
+  }
+}
